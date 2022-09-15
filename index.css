@@ -226,4 +226,6 @@ cursor: pointer;
         color: white;
         
     }
-  
+  .text-white ul li{
+    list-style: none;
+  }
