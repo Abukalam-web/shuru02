@@ -1,0 +1,173 @@
+@media only screen and (max-width:700px) {
+
+    body {
+        font-family: 'Roboto Slab', serif;
+        margin: 0;
+        padding: 12px;
+        box-sizing: border-box;
+    }
+    .my-5 {
+        margin-top: 3rem!important;
+        margin-bottom: 3rem!important;
+        margin-left: 6%;
+    }
+    .circle {
+        width: 150px;
+        height: 150px;
+        background-color: #e67e22;
+        color: #2c3e50;
+        border-radius: 50%;
+        margin-left: 35%;
+        margin-bottom: 5%;
+        font-weight: bolder;
+        font-size: 30px;
+        transition: all 0.6s;
+    }
+    .section01 {
+        width: 103.85%;
+        height: 100vh;
+        background-color: #1abc9c;
+    }
+    .project01 .col-md-3 {
+        width: 41%;
+        margin: auto;
+        height: 300px
+    px
+    ;
+        background-color: #34495e;
+        box-shadow: 10px 24px 20px 7px #2c3e50;
+        margin-top: 5%;
+        border-radius: 5px;
+    }
+    .last-button a {
+        color: white;
+        text-decoration: none;
+        text-align: center;
+        letter-spacing: 0;
+        font-size: 20px;
+        text-transform: capitalize;
+        font-family: 'Rampart One', cursive;
+        font-family: 'Roboto Slab', serif;
+        background: linear-gradient(to left,#16a085,#34495e);
+        padding: 2% 17.23%;
+        border-radius: 4px;
+        transition: all 1s;
+    }
+    .col-sm-3 {
+        flex: 0 0 auto;
+        width: 46%;
+        margin: auto;
+        margin-bottom: 4%;
+    }
+    .photo-gellry .col-md-3 {
+        width: 49%;
+        height: 196px;
+        border: 1px solid #16a085;
+        margin-bottom: 2%;
+    }
+    .photo-gellry .col-md-3 img {
+        width: 96%;
+        height: 190px;
+        margin: 5px 3%;
+        border-radius: 12px;
+    }
+    .photo-gellry .col-md-3 {
+        width: 49%;
+        height: 196px;
+        border: 0px;
+        margin-bottom: 2%;
+        margin-left: 0.4%;
+    }
+    .more-photo a {
+        color: white;
+        font-family: 'Roboto Slab', serif;
+        letter-spacing: 8px;
+        text-decoration: none;
+        font-size: 2rem;
+        background: linear-gradient(to left,#e84393,#00cec9);
+        padding: 1.29% 14%;
+        border-radius: 50px;
+        margin-bottom: 100px;
+      
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:500px) {
+    .last-button a {
+        color: white;
+        text-decoration: none;
+        text-align: center;
+        letter-spacing: 0;
+        font-size: 14px;
+        text-transform: capitalize;
+        font-family: 'Rampart One', cursive;
+        font-family: 'Roboto Slab', serif;
+        background: linear-gradient(to left,#16a085,#34495e);
+        padding: 2% 17.23%;
+        border-radius: 4px;
+        transition: all 1s;
+    }
+    .more-photo a {
+        color: white;
+        font-family: 'Roboto Slab', serif;
+        letter-spacing: 2px;
+        text-decoration: none;
+        font-size: 1rem;
+        background: linear-gradient(to left,#e84393,#00cec9);
+        padding: 1.29% 14%;
+        border-radius: 50px;
+        margin-bottom: 100px;
+    
+    }
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width:400px) {
+   
+    .section01 {
+        width: 107%;
+        height: 100vh;
+        background-color: #1abc9c;
+    }
+    p {
+        margin-top: 0;
+        text-align: justify;
+        margin-bottom: 1rem;
+        margin-left: 7%;
+    }
+    .h3, h3 {
+        font-size: calc(1.3rem + .6vw);
+        margin-left: 7%;
+    }
+    .py-4 {
+        padding-top: 1.6rem!important;
+        padding-bottom: 1.5rem!important;
+        margin-left: 22%;
+    }
+
+
+
+
+}
